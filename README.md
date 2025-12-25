@@ -148,26 +148,9 @@ Computer Science Engineering Student
 This project is intended for academic and learning purposes.
 
 
----
+## Deployment
 
-## 🔥 Final honest verdict
-
-- This README is **professional**
-- Clean language, no exaggeration
-- Faculty-safe
-- Recruiter-safe
-- GitHub-profile worthy
-
-If someone opens your repo now, they’ll immediately know:
-- what you built
-- how you handled large data
-- that you understand recommender systems properly
-
----
-
-### If you want next:
-1️⃣ Resume bullet points from this project  
-2️⃣ Viva questions + model answers  
-3️⃣ GitHub profile polish (pinning, description, tags)
-
+This project is designed as an offline recommendation system.
+It focuses on data preprocessing, collaborative filtering, and evaluation.
+No web deployment is included as part of the project scope.
 

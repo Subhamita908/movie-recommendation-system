@@ -164,4 +164,12 @@ It focuses on data preprocessing, collaborative filtering, and evaluation.
 No web deployment is included as part of the project scope.
 
 
+<<<<<<< HEAD
+=======
+## Deployment
+
+This project is designed as an offline recommendation system.
+It focuses on data preprocessing, collaborative filtering, and evaluation.
+No web deployment is included as part of the project scope.
+>>>>>>> d195cfe4261b2590cb63ee89d13e6dc43bfc4dbd
 

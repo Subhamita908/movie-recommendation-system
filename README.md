@@ -115,6 +115,17 @@ pip install -r requirements.txt
 
 4> 04_evaluation.ipynb
 
+## 📊 Power BI Dashboard
+
+A Power BI dashboard was created to visualize:
+- Rating distributions
+- Recommendation patterns
+- Model evaluation metrics
+
+The dashboard provides business-level insights on user preferences
+and recommender system performance.
+
+
 📈 Results
 Generated personalized movie recommendations for users
 
@@ -146,28 +157,11 @@ Computer Science Engineering Student
 
 📜 License
 This project is intended for academic and learning purposes.
+## Deployment
 
+This project is designed as an offline recommendation system.
+It focuses on data preprocessing, collaborative filtering, and evaluation.
+No web deployment is included as part of the project scope.
 
----
-
-## 🔥 Final honest verdict
-
-- This README is **professional**
-- Clean language, no exaggeration
-- Faculty-safe
-- Recruiter-safe
-- GitHub-profile worthy
-
-If someone opens your repo now, they’ll immediately know:
-- what you built
-- how you handled large data
-- that you understand recommender systems properly
-
----
-
-### If you want next:
-1️⃣ Resume bullet points from this project  
-2️⃣ Viva questions + model answers  
-3️⃣ GitHub profile polish (pinning, description, tags)
 
 

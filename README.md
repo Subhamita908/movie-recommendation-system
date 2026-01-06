@@ -39,42 +39,6 @@ Due to the large size of the original ratings dataset, a statistically represent
   - VS Code
   - Jupyter Notebook
 
----
-
-## 📂 Project Structure
-
-movie-recommendation-system/
-│
-├── data/
-│ ├── raw/
-│ │ ├── ratings.csv and ratings_reduced.csv
-│ │ └── movies.csv
-│ │
-│ └── processed/
-│ └── user_movie_matrix.csv
-│
-├── notebooks/
-│ ├── 01_data_exploration.ipynb
-│ ├── 02_baseline_model.ipynb
-│ ├── 03_collaborative_filtering.ipynb
-│ └── 04_evaluation.ipynb
-│
-├── src/
-│ ├── data_loader.py
-│ ├── preprocessing.py
-│ ├── similarity.py
-│ ├── recommender.py
-│ └── evaluation.py
-│
-├── results/
-│ ├── rmse_comparison.png
-│ └── sample_recommendations.csv
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
----
 
 ## 📊 Dataset
 
@@ -164,12 +128,5 @@ It focuses on data preprocessing, collaborative filtering, and evaluation.
 No web deployment is included as part of the project scope.
 
 
-<<<<<<< HEAD
-=======
-## Deployment
 
-This project is designed as an offline recommendation system.
-It focuses on data preprocessing, collaborative filtering, and evaluation.
-No web deployment is included as part of the project scope.
->>>>>>> d195cfe4261b2590cb63ee89d13e6dc43bfc4dbd
 
